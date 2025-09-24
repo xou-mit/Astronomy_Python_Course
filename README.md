@@ -15,19 +15,19 @@ Each week focuses on a different topic, and the content is designed to be hands-
 
 ### Week 2 – Data Visualization  
 *Plotting with Matplotlib, creating clear and professional figures, and visualizing astronomical data.*  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/main/Week2_Data_Visualization/Week2_Data_Visualization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week2_Data_Visualization/Week2_Data_Visualization.ipynb)
 
 ---
 
 ### Week 3 – Data Analysis & Model Fitting  
 *Using NumPy, SciPy, and curve fitting tools; basic statistics for astronomy applications.*  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/main/Week3_Data_Analysis/Week3_Data_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week3_Data_Analysis/Week3_Data_Analysis.ipynb)
 
 ---
 
 ### Week 4 – Machine Learning in Astronomy  
 *Introduction to machine learning concepts, classification, regression, and simple neural networks.*  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/main/Week4_ML_in_Astronomy/Week4_ML_in_Astronomy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/Week4_ML_in_Astronomy.ipynb)
 
 ---
 
