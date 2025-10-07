@@ -1,5 +1,5 @@
 # Coding in Astronomy Workshop Series  
-Welcome to the **Coding in Astronomy** workshop series! This repository contains all the materials for the 4-week series organized by the UVA Department of Astronomy.  
+Welcome to the **Coding in Astronomy** workshop series! This repository contains all the materials for the 4-week series hosted at the UVA Department of Astronomy.  
 
 Each week focuses on a different topic, and the content is designed to be hands-on and beginner-friendly. You can run the notebooks locally or open them directly in Google Colab (no installation required).  
 
@@ -15,27 +15,27 @@ Each week focuses on a different topic, and the content is designed to be hands-
 
 ### Week 2 – Data Visualization  
 *Plotting with Matplotlib, creating clear and professional figures, and visualizing astronomical data.*  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week2_Data_Visualization/Week2_Data_Visualization.ipynb)
+[TBD]
 
 ---
 
 ### Week 3 – Data Analysis & Model Fitting  
 *Using NumPy, SciPy, and curve fitting tools; basic statistics for astronomy applications.*  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week3_Data_Analysis/Week3_Data_Analysis.ipynb)
+[TBD]
 
 ---
 
 ### Week 4 – Machine Learning in Astronomy  
 *Introduction to machine learning concepts, classification, regression, and simple neural networks.*  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/Week4_ML_in_Astronomy.ipynb)
+[TBD]
 
 ---
 
 ## How to Use This Repository  
 
 1. **Choose a week** and click the *Open in Colab* button to launch the notebook online.  
-2. To save your work, go to **File → Save a copy in Drive** (recommended).  
-3. Follow along with the weekly exercises. Data files (if any) are in the `data/` folder for that week.  
+2. Follow along with the weekly exercises. 
+3. To save your work, go to **File → Save a copy in Drive** (recommended).   
 
 ---
 
