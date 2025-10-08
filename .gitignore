@@ -7,4 +7,5 @@
 # Python virtual environments
 astro_env/
 venv/
+astro_workshop_env/
 
