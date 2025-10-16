@@ -17,6 +17,8 @@ Each week focuses on a different topic, and the content is designed to be hands-
 *Plotting with Matplotlib, creating clear and professional figures, and visualizing astronomical data.*  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week2_Data_Visualization/Week2_Data_Visualization.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week2_Data_Visualization/Week2_Data_Visualization_class_activity.ipynb) -> Class activity
+
 
 ---
 
