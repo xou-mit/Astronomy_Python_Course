@@ -15,7 +15,10 @@ Each week focuses on a different topic, and the content is designed to be hands-
 
 ### Week 2 – Data Visualization  
 *Plotting with Matplotlib, creating clear and professional figures, and visualizing astronomical data.*  
-[TBD]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week2_Data_Visualization/Week2_Data_Visualization.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week2_Data_Visualization/Week2_Data_Visualization_class_activity.ipynb) -> Class activity
+
 
 ---
 
@@ -55,3 +58,17 @@ pip install numpy matplotlib scipy pandas scikit-learn jupyter
 If you run into issues or have questions, open an Issue in this repository or bring your question to the next workshop session.
 
 Happy coding! 🚀✨
+
+---
+
+## Acknowledgments  
+
+We gratefully acknowledge the use of publicly available data and tools that support this workshop series:  
+
+- **General Resources:**  
+  Workshop materials build upon open-source tools from the Python ecosystem, including [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Pandas](https://pandas.pydata.org/), [Astropy](https://www.astropy.org/), and [Scikit-Learn](https://scikit-learn.org/).  
+
+- **Week 2 – Data Visualization:**  
+  The galaxy sample used in the visualization exercises is based on data from the [Local Volume Database (LVDB)](https://github.com/apace7/local_volume_database/tree/main) compiled by [Andrew Pace](https://apace7.github.io).  
+
+- We thank the UVA Department of Astronomy for hosting the workshop series.
