@@ -28,7 +28,7 @@ Each week focuses on a different topic, and the content is designed to be hands-
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week3_Data_Analysis/binary_star_curve_fit.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week3_Data_Analysis/Bayesian Inference.ipynb) (Bayes Theorem/Bonus)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week3_Data_Analysis/Bayesian_Inference.ipynb)(Bayes Theorem/Bonus)
 
 ---
 
