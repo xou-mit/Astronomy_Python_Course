@@ -24,7 +24,7 @@ Each week focuses on a different topic, and the content is designed to be hands-
 
 ### Week 3 – Data Analysis & Model Fitting  
 *Using NumPy, SciPy, and curve fitting tools; basic statistics for astronomy applications.*  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week3_Data_Analysis/Week3_Data_Anallysis.ipynb) (Linear Regression)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week3_Data_Analysis/Week3_Data_Analysis.ipynb) (Linear Regression)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week3_Data_Analysis/binary_star_curve_fit.ipynb) (Curve Fit)
 
