@@ -36,6 +36,8 @@ Each week focuses on a different topic, and the content is designed to be hands-
 *Introduction to machine learning concepts, classification, regression, and simple neural networks.*  
 [TBD]
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niusha951/Astronomy_Python_Course/blob/master/Week4_ML_in_Astronomy/API_Intro_colab.ipynb)(Intro to API/Bonus)
+
 ---
 
 ## How to Use This Repository  
